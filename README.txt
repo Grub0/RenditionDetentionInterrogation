@@ -11,4 +11,5 @@ All code contained here must be licensed as an Open Source project\
 \
 Patch Notes go here:\
 \
-1.0 Submitted the project to GitHub}
+1.0 Submitted the project to GitHub\
+1.1 Making sure that I can edit using the GUI }
